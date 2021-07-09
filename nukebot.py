@@ -57,4 +57,4 @@ async def spam(ctx):
              await c.send('@everyone ')
              await c.send('@everyone ')
 
-client.run('YOUR TOKEN HERE')
+client.run('ODYyNzcwNzY0MDc0NzEzMTM4.YOdL4w.aPm_XIcAHctUJ1tEz2DyE1xMLus')
